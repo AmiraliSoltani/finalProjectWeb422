@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import { authenticateUser } from "../lib/authenticate";
 import { useAtom } from 'jotai';
 import { getFavourites, getHistory } from "../lib/userData";
+import { favouritesAtom, searchHistoryAtom } from "../store";
 
 export default function Login(props) {
 

@@ -3,6 +3,7 @@ import { useRouter } from 'next/router';
 import { isAuthenticated } from '../lib/authenticate';
 import { useAtom } from 'jotai';
 import { getFavourites, getHistory } from '../lib/userData';
+import { favouritesAtom, searchHistoryAtom } from '../store';
 
 const PUBLIC_PATHS = ['/login', '/', '/_error','/register'];
 

@@ -1,11 +1,11 @@
 /*********************************************************************************
-* WEB422 – Assignment 5
+* WEB422 – Assignment 6
 * I declare that this assignment is my own work in accordance with Seneca Academic Policy.
 * No part of this assignment has been copied manually or electronically from any other source
 * (including web sites) or distributed to other students.
 *
-* Name: Amirali Soltani Student ID: 131187213 Date: 2022-11-14
-*
+* Name: Amirali Soltani Student ID: 131187213 Date: 2022-12-1
+* Vercel App (Deployed) Link: 
 *
 ********************************************************************************/ 
 import { Col, Row } from "react-bootstrap";
